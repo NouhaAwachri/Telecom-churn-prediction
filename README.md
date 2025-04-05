@@ -1,0 +1,1 @@
+This project applies the CRISP-DM methodology to build a Machine Learning model for predicting customer churn in a US-based telecom company. Additionally, SHAP (SHapley Additive exPlanations) is used to interpret and explain model predictions, enhancing transparency and trust in the solution.
